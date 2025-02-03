@@ -117,4 +117,6 @@ Este repositorio está configurado para que Railway monte el servicio de Evoluti
 
 2. Configura las variables de entorno de Evolution API para que se conecte a ambas bases de datos. El funcionamiento es similar
 
+---
+
 **Link al repositorio original** - [Evolution API](https://github.com/NathanConde-dev/evolution-api)
